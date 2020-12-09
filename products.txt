@@ -1,0 +1,4 @@
+Violet, 25
+Blue, 20
+Green, 60
+Yellow, 15
